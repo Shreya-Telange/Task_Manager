@@ -3,8 +3,8 @@
     width: 80%; /* Increased width for responsiveness */
     max-width: 800px; /* Set a larger max width */
     height: auto; /* Make height dynamic */
-    min-height: 350px; /* Ensures a minimum height */
-    margin: 10vh auto; /* Centering with respect to viewport */
+    min-height: 380px; /* Ensures a minimum height */
+    margin: 20vh auto; /* Centering with respect to viewport */
     padding: 20px;
     background-color: rgba(255, 255, 255, 0.9);
     border-radius: 8px;
